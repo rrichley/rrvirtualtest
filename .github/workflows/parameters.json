@@ -1,0 +1,20 @@
+{
+  "location": {
+    "value": "ukwest"
+  },
+  "vmName": {
+    "value": "rrtestVirtualMachine"
+  },
+  "adminUsername": {
+    "value": "adminuser"
+  },
+  "adminPassword": {
+    "value": "ComplexPassword123!"
+  },
+  "vnetName": {
+    "value": "rrtestVNet"
+  },
+  "subnetName": {
+    "value": "rrtestSubnet"
+  }
+}
